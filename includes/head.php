@@ -47,12 +47,13 @@
 			<a href="/"><img class="logo" src="http://where-spotlight.s3.amazonaws.com/start-tank/starttank_0093c2.svg"/></a>
 			<ul>
 				<?php /*
-				<li><a href="/calendar">Calendar</a></li>
-				<li><a href="/press">Press</a></li>
+				<li><a href="calendar">Calendar</a></li>
+				<li><a href="/42vmy3zq/press">Press</a></li>
 				*/ ?>
-				<li class="contact"><a href="/apply">Apply</a></li>
-				<li><a href="/community"><span class="hideOnMobile">Current </span>Startups</a></li>
-				<li><a href="/about">About</a></li>
+				<li class="contact"><a href="http://paypal.com"><img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/pp.svg"></a></li>
+				<li class="contact"><a href="/42vmy3zq/incubation">Apply</a></li>
+				<li><a href="/42vmy3zq/community"><span class="hideOnMobile">Current </span>Startups</a></li>
+				<li><a href="/42vmy3zq/about">About</a></li>
 				
 			</ul>
 		</div><!-- /navChild -->

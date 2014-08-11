@@ -3,34 +3,27 @@
 <div class="faq">
 	<h1>About Start Tank</h1>
 <p>
-PayPal India, in partnership with The Indus Entrepreneurs (TiE) Chennai Chapter, launched Start Tank, the startup incubator, at PayPal’s Chennai.Start Tank provides the early stage startup a professional co-working space that gives you easy access to key PayPal employees and the benefits of working side by side with many other startups in the same office.
-<br/><br />We'll get you the advice and expertise you need, access to soft mentorship in HR, technology trainings, talent acquisition best practices, team identification, leadership development, university relations Workplace logistics and lots more.
+PayPal India, in partnership with The Indus Entrepreneurs (TiE) Chennai Chapter, launched Start Tank, the startup incubator, at PayPal’s Chennai development center. 
+</p><p>
+The initiative seeks to nurture and support the creation of a new generation of technology companies by offering them not just initial infrastructure and mentorship, direction and encouragement, but also a chance to work alongside some of the best minds in the field. 
+</p><p>
+Start Tank, which is a part of the Corporate Social Responsibility (CSR) program of PayPal, provides a cost and obligation-free environment for the selected startups to evolve.
+</p><p>
+As an eBay Inc. company, PayPal constantly seeks to create new opportunities around the world by focusing on building an ecosystem that nurtures entrepreneurship and innovation
 </p>
 
-	
-<h2>Eligibility</h2>
-<ul>
-	<li>Formally incorporated pre-angel/pre-venture funded seed and early-stage technology startups</li>
-	<li>Applicants selected through a joint selection process between PayPal and TiE Chennai</li>
-	<li>Startups with a significant tech centric component that can benefit from PayPal’s technical mentors and TiE’s business mentorship</li>
-	<li>Companies whose founders are willing to commit full time to incubation</li>
-</ul>
+<h1>The Program</h1>
+<p>
+The Indian software ecosystem has been producing some excellent services for global corporations. However, the number of entrepreneurial ventures that have come up with world renowned products is very small. In the spirit of nourishing this ecosystem, and bringing out world-class software products built from India, PayPal partnered with TiE-Chennai and launched the Startup Incubator in October 2013. It provides a cost and obligation-free environment for the selected startups to evolve.
 </p>
+<p>
+As an eBay Inc. company, PayPal constantly seeks to create new opportunities around the world by focusing on building an ecosystem that nurtures entrepreneurship and innovation.
+The tenure of the program is 12 months.
+</p>
+<p>
+You will hear from us soon when applications open. If you have questions, email us at <a href="mailto:starttankchennai@paypal.com" target="_blank">starttankchennai@paypal.com.</a>
 
-<h2>Assistance to Startups</h2>
-<ul>
-<li>Technology mentorship – leveraging eBay Inc.’s global technology and product competency
-
-</li><li>Business mentorship – leveraging TiE and its seasoned entrepreneur pool
-
-</li><li>Office area of over 11,000 sq.ft., which includes a world-class boardroom, discussion room, and a state-of-the-art conference room to support multiple start-up companies
-
-</li><li>Access to soft mentorship in HR, technology trainings, talent acquisition best practices, team identification, leadership development, university relations
-
-</li><li>Workplace logistics such as cafeteria, transport, mail room, doctor’s room, mothers’ room, ATM, library, and fitness center</li>
-</ul>
-
-	
+</p>
 	
 	
 </div><!-- /faq -->

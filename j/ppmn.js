@@ -118,7 +118,7 @@ $.ajax({
   });
 }
 //----------- if Community pg ----------//
-if(window.location.pathname == '/community/'){
+// if(window.location.pathname == '/community/'){
 
 // Wait until images are loaded before displaying them
 	var StartupImgTotal = $(".startups img").size(); 	// get the number of images
@@ -154,7 +154,7 @@ $(".mentor_logos a").click(function(){
 	$(".mentor_logos ." + thisclassMentors + " a").addClass("selected");
 	$(".mentor_writeup").html(thiscontentMentors);
 });
-}		
+// }		
 deviceDetect();
 
 }); // END DOC.READY

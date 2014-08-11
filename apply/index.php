@@ -63,7 +63,7 @@ SOCIAL
 <script src="//platform.linkedin.com/in.js" type="text/javascript">
   lang: en_US
 </script>
-<script type="IN/Share" data-url="http://localhost:8085/Chennai/Apply.html"></script>
+<script type="IN/Share" data-url="http://chennai.starttank.com"></script>
    <!-- 
     <a href="http://in.linkedin.com/pub/start-tank-chennai/a0/15b/8a6">
       

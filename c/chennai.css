@@ -33,7 +33,35 @@
 	.footer {
 	margin: 0 auto;
 	}
+	
+	p, ul, ol {
+	font-size: 1em;
+	}
+	.navChild ul li a img {
+		width: 30px;
+		height: auto;
+		margin: 18px 0 0 0;
+	}
+	.community ul.mentor_logos {
+		width: 37.5%;
+		margin: 0 12.5% 0 0;
+	}
+	.community ul.mentor_logos li a, .community li a.unselected {
+	width: 32%;
+	}
 }
+
+@media (max-width: 767px) {
+	.navChild ul li a img {
+		display:none;
+	}
+}
+
+/*
+***********
+ALL SIZES
+***********
+*/
 
 .faq li {
 	list-style-type:disc; 
@@ -52,5 +80,6 @@ font-size: 1em;
 list-style-type: none;
 margin: 0;
 }
+.ecosystem div {float: left; max-width:150px; width:46%; margin: 0 2% 0;}
+.ecosystem div img {width:100%;}
 
-#about6_contain img {max-width:150px; width:50%;}

@@ -29,13 +29,13 @@ STARTUPS
 			<article>
 					<div class="doparttime">
 									<h1>
-										DoPartTime
+										DoPartTime.com
 									</h1>
 									<div class="clr"></div>						
 									<p>
 A platform for interconnecting part-time job seekers and the part-time job providers.
 <br /><br />
-<a href="http://www.doparttime.com/" title="DoPartTime" target="_blank">DoPartTime</a>
+<a href="http://www.doparttime.com/" title="DoPartTime" target="_blank">DoPartTime.com</a>
 									</p>
 								</div><!-- /musurvey -->
 			</article>
@@ -59,7 +59,7 @@ A consumer insights and interaction tool that enables business to understand and
 									</h1>
 									<div class="clr"></div>						
 									<p>
-A company that seeks to be the one-stop shop for office supplies (electronics, stationary, cleaning and maintenance, pantry, etc) integrating vendors and corporates.
+kobster is a technology-led office supplies company offering complete solutions to procure, manage, analyse and optimise office supplies for a corporate. Kobster.com aims to consumarize the corporate procurement process and revolutionize the way corporates shop for their office needs by leveraging the power of e-commerce. 
 <br /><br />
 <a href="http://kobster.com" title="Kobster" target="_blank">Kobster</a>
 									</p>
@@ -74,7 +74,7 @@ A company that seeks to be the one-stop shop for office supplies (electronics, s
 						<p>
 A sports fan engagement and management company whose signature mobile application enables a shared, interactive experience during live cricket matches.
 <br /><br />
-<a href="http://fantain.com" title="Fantain" target="_blank">Fantain</a>
+<a href="http://www.fantain.com/" title="Fantain" target="_blank">Fantain</a>
 						</p>
 					</div><!-- /fantain -->
 			</article>
@@ -83,9 +83,9 @@ A sports fan engagement and management company whose signature mobile applicatio
 		<div id="s_detail"></div>
 		
 		<div class="startup_writeup">
-			<h1>Start Tank Startups</h1><div class="clr"></div>
+			<h1>Start Tank Incubatees</h1><div class="clr"></div>
 			<p>
-				The startups in Start Tank are diverse as the teams themselves. From recycling and payments tech to social communities and fashion, many companies have already been awarded some high honors. Click around, and see which startups are hiring now.
+				The startups in Start Tank are diverse as the teams themselves.
 			</p>
 			
 		</div><!-- /startup_writeup -->
@@ -99,6 +99,12 @@ A sports fan engagement and management company whose signature mobile applicatio
 	-->
 	<div class="mentors">
 		<ul class="mentor_logos">
+			<li class="anupam"><a href="#m_detail">
+				<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/mentors/Anupam_Pahuja.jpg" />
+			</a></li>
+			<li class="ram"><a href="#m_detail">
+				<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/mentors/ramkumar.jpg" />
+			</a></li>
 			<li class="veeran"><a href="#m_detail">
 							<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/mentors/veeran.jpg" />
 						</a></li>
@@ -108,17 +114,12 @@ A sports fan engagement and management company whose signature mobile applicatio
 						<li class="raghu"><a href="#m_detail">
 							<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/mentors/raghu.jpg"/>
 						</a></li>
-						<li class="anupam"><a href="#m_detail">
-							<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/mentors/Anupam_Pahuja.jpg" />
-						</a></li>
+						
 						<li class="dorai"><a href="#m_detail">
 							<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/mentors/Dorai Thodla.jpg" />
 						</a></li>
 						<li class="sunil"><a href="#m_detail">
 							<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/mentors/sunil.jpg"/>
-						</a></li>
-						<li class="ram"><a href="#m_detail">
-							<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/mentors/ramkumar.jpg" />
 						</a></li>
 						<li class="laks"><a href="#m_detail">
 							<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/mentors/laks.jpg" />
@@ -139,7 +140,7 @@ A sports fan engagement and management company whose signature mobile applicatio
 									<p>Veeran is the <span class="role">Co-Founder and Joint Managing Director</span> of Future Focus Infotech Pvt. Ltd.<br>He is a first generation entrepreneur whose passion lies in leveraging the human potential to enhance business values. He has established three ventures in the IT and ITES arena between 1991 and 2000 . </p>
 			                        <p> With the mission of generating employment opportunities for young Indians, he co-founded Future Focus Infotech in the year 1997. He was the CEO and MD of Focus between 2002 – 2009 and continues to be the Joint Managing Director currently. He leads the organisation’s Indian IT Services business as well as the Off-shore software development centre.</p>
 			<p>                        
-			He is a member of the <span class="role">Governing Council of TiE, Chennai</span>. He is also the Chair of Mentoring for the term 2013 – 15. </p>
+			He is a member of the <span class="role">Governing Council of TiE, Chennai.</span> He is also the Chair of Mentoring for the term 2013 – 15. </p>
 			  <p>Any questions email <a href="mailto:<veeren@focusite.com>">Veeren </a>
 									</p>
 								</div>
@@ -152,7 +153,7 @@ A sports fan engagement and management company whose signature mobile applicatio
 								<div class="clr"></div>				
 								<p>
                     
-			    <p>M.V. Subramanian is the <span class="role">co-founder of Future Focus Infotech</span>. He helped navigate the organization from a training company to a leading IT HR company with more than 2000 employees and operations in USA and UAE. The company has recently been recognized by Deloitte as a Technology Top 50 company and winner of Dun & Bradstreet- Axis Bank SME Award. </p>
+			    <p>M.V. Subramanian is the <span class="role">co-founder of Future Focus Infotech.</span> He helped navigate the organization from a training company to a leading IT HR company with more than 2000 employees and operations in USA and UAE. The company has recently been recognized by Deloitte as a Technology Top 50 company and winner of Dun & Bradstreet- Axis Bank SME Award. </p>
 
 			<p>Subramanian is a professional entrepreneur and is an experienced management specialist with 25 years of vast knowledge in key areas of management. His core strengths are implementing process, improving efficiency and restructuring. His ability to conceptualize innovative business models, coupled with management finance, enabled him to establish newer enterprises. </p>
 			<p>
@@ -200,7 +201,7 @@ A sports fan engagement and management company whose signature mobile applicatio
 								<div class="clr"></div>					
 								<p>
                     
-			           <p>   Anupam Pahuja <span class="role">is  GM & Head  - PayPal India Development Centers  </span>. </p>
+			           <p>   Anupam Pahuja <span class="role">is  GM & Head  - PayPal India Development Centers  .</span> </p>
 			          <p>Anupam is a global executive with multi-cultural and cross-continent experience in Technology, Consulting, and Entrepreneurship. He has incubated and sold businesses, managed large-scale multinational enterprises, and serves as Board member for several companies and non-profit organizations.</p>
 
 			<p>At PayPal, Anupam manages over 2,000 engineers at its centers in Chennai and Bangalore, from where emanates nearly 55% of all product development work for the company. Anupam has been instrumental in making PayPal one of the best places to work in India, 4 years in a row, according to surveys conducted by the Great Places to Work Institute and The Economic Times. </p>
@@ -340,7 +341,7 @@ A sports fan engagement and management company whose signature mobile applicatio
 		<div class="mentor_writeup">
 			<h1>Start Tank mentors</h1><div class="clr"></div>
 			<p>
-You're in good company. Our mentors have diverse backgrounds and years of experience leading both startups and large corporate teams. We've seen and solved many of the same problems that startups often face. From marketing and sales to engineering and product development, we are here to help.
+Our mentors come from diverse backgrounds and have vast experience leading teams, negotiating deals, building great products, raising money, and generating awareness. In short,  they’ve seen and solved many of the problems that startups often face. Finance, marketing, product, design, engineering, business development, are some of the areas in which our mentors offer support.
  
 			</p>
 
