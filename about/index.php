@@ -9,7 +9,7 @@ The initiative seeks to nurture and support the creation of a new generation of 
 </p><p>
 Start Tank, which is a part of the Corporate Social Responsibility (CSR) program of PayPal, provides a cost and obligation-free environment for the selected startups to evolve.
 </p><p>
-As an eBay Inc. company, PayPal constantly seeks to create new opportunities around the world by focusing on building an ecosystem that nurtures entrepreneurship and innovation
+As an eBay Inc. company, PayPal constantly seeks to create new opportunities around the world by focusing on building an ecosystem that nurtures entrepreneurship and innovation.
 </p>
 
 <h1>The Program</h1>

@@ -83,6 +83,15 @@ TABLET + DESKTOP
 	#doparttime {
 		background-image: url(https://where-spotlight.s3.amazonaws.com/start-tank-chennai/startups/hero_doparttime.jpg);
 	}
+	#fantain {
+		background-image: url(https://where-spotlight.s3.amazonaws.com/start-tank-chennai/startups/hero_fantain.png);
+	}
+	#heyfeedback {
+		background-image: url(https://where-spotlight.s3.amazonaws.com/start-tank-chennai/startups/hero_heyfeedback.png);
+	}
+	#kobster {
+		background-image: url(https://where-spotlight.s3.amazonaws.com/start-tank-chennai/startups/hero_kobster.png);
+	}
 	
 }
 
