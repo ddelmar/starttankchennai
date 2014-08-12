@@ -1,3 +1,9 @@
+/*
+***********
+TABLET + DESKTOP
+***********
+*/
+
 @media (min-width: 768px) {
 	#about1 { background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank-chennai/home.jpg) ; }
 	#about3 { background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank-chennai/home2.jpg) ;
@@ -13,8 +19,9 @@
 	}
 	#about4 .community {
 		background-image: url(http://where-spotlight.s3.amazonaws.com/start-tank-chennai/home3.jpg);
-		background-repeat:no-repeat;
-		background-size: 130% auto;
+		background-size: auto 100%;
+		background-repeat: no-repeat;
+		background-position: right top;
 	}
 	.about_dots {
 	height: 250px;
@@ -38,7 +45,7 @@
 	font-size: 1em;
 	}
 	.navChild ul li a img {
-		width: 30px;
+		width: 80%;
 		height: auto;
 		margin: 18px 0 0 0;
 	}
@@ -46,14 +53,91 @@
 		width: 37.5%;
 		margin: 0 12.5% 0 0;
 	}
-	.community ul.mentor_logos li a, .community li a.unselected {
+	.community ul.mentor_logos li a, .community ul.mentor_logos li a.unselected {
 	width: 32%;
 	}
+	
+	/* Startups */
+	.col-md-5, .col-md-7 {float: left; display: block;}
+	.col-md-5 { width:30%;}
+	.col-md-5 img { width: 100%; }
+	.col-md-7 { 
+		width:66%; 
+		margin: 0 2%; 
+		text-align: left; 
+	}
+	.featurette {
+		margin: 0;
+	}
+	.featuredstartup {
+		height: 400px;
+	}
+	.featuredstartup .intro a {
+		background: white;
+		color: black;	
+	}
+	.featuredstartup .intro h2, 
+	.featuredstartup .intro p {
+		color: white;
+	}
+	#doparttime {
+		background-image: url(https://where-spotlight.s3.amazonaws.com/start-tank-chennai/startups/hero_doparttime.jpg);
+	}
+	
 }
+
+/*
+***********
+ONLY DESKTOP
+***********
+*/
+
+@media (min-width: 1026px) {
+	.featuredstartup .intro {
+		width: 30%;
+		padding: 100px 35% 0 35%;
+	}
+}
+	
+/*
+***********
+ONLY TABLET
+***********
+*/
+
+@media (max-width: 1025px) and (min-width: 768px) {
+	#about2, #about4, .aboutSubContainerL {
+		height: 500px;
+	}
+	.featuredstartup .intro {
+		width: 80%;
+		padding: 100px 10% 0 10%;
+	}
+	
+}
+
+/*
+***********
+MOBILE
+***********
+*/
 
 @media (max-width: 767px) {
 	.navChild ul li a img {
 		display:none;
+	}
+	.featurette {
+		width: 70%;
+		margin: 50px 15% 0 15%;
+	}
+	.featurette p {text-align: left;}
+	.featuredstartup .intro {
+		width: 80%;
+		padding: 140px 10% 0 10%;
+	}
+	.featuredstartup .intro a {
+		background: #0093c2;
+		color: white;
 	}
 }
 
@@ -62,6 +146,7 @@
 ALL SIZES
 ***********
 */
+
 
 .faq li {
 	list-style-type:disc; 
@@ -80,6 +165,85 @@ font-size: 1em;
 list-style-type: none;
 margin: 0;
 }
+
+a.btn {
+	background: #0093c2;
+	color: white;
+	font-weight: bold;
+	padding: 1em;
+	text-align: center;
+	display: block;
+	border-radius: 8px;
+	max-width: 200px;
+	width: 90%;
+	margin: 5% auto;
+}
+
+#rulesandregulations_content {
+	display: none;
+	position: fixed;
+	z-index: 101;
+	width: 90%;
+	height: 500px;
+	left: 50%;
+	top: 0;
+	margin: 10% 0 0 -45%;
+	background: white;
+}
+
+#rulesandregulations_content a.close {
+	background-image: url(https://where-spotlight.s3.amazonaws.com/start-tank-chennai/x.png);
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+	width: 40px;
+	height: 40px;
+	position: absolute;
+	top: 20px;
+	right: 20px;
+	display: block;
+}
+
+#rulesandregulations_content p {
+	width: 90%;
+	margin: 0 auto;
+	text-align: left;
+}
+
+#blackbg {
+	display: none;
+	background: black;
+	position: fixed;
+	top: 0;
+	z-index: 100;
+	width: 100%;
+	height: 100%;
+	opacity: .8;
+}
+
 .ecosystem div {float: left; max-width:150px; width:46%; margin: 0 2% 0;}
 .ecosystem div img {width:100%;}
 
+/* STARTUPS */
+
+.featuredstartup {
+	width: 100%;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+	background-position: center top;
+}
+
+.featuredstartup .intro {
+	text-align: left;
+	background: transparent;
+}
+
+.featuredstartup .intro a {
+	margin: 12px 0 0 0 ;
+	display:block;
+	border-radius: 6px;
+	text-align: center;
+	padding: 8px;
+	width: 100%;
+	max-width: 300px;
+}

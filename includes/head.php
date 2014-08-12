@@ -13,7 +13,7 @@
 <link rel="shortcut icon" href="http://where-spotlight.s3.amazonaws.com/start-tank/favicon.png" />
 <link rel="apple-touch-icon" href="https://www.paypalobjects.com/en_US/i/pui/apple-touch-icon.png" />
 <link href="http://starttank.com/c/master.css" rel="stylesheet" type="text/css" />
-<link href="../c/chennai.css" rel="stylesheet" type="text/css" />
+<link href="/c/chennai.css" rel="stylesheet" type="text/css" />
 
 <!--[if IE]>
 <link href="../c/desktop.css" rel="stylesheet" type="text/css" />
@@ -34,6 +34,16 @@
 
 ?></title>
 
+<script type="text/javascript">
+$(document).ready(function(){
+	$("#rulesandregulations").click(function(){
+		$("#rulesandregulations_content, #blackbg").show();
+	});
+	$("a.close").click(function(){
+		$("#rulesandregulations_content, #blackbg").hide();
+	});
+});
+</script>
 </head>
 
 <body class="<?php 
@@ -50,7 +60,7 @@
 				<li><a href="calendar">Calendar</a></li>
 				<li><a href="/42vmy3zq/press">Press</a></li>
 				*/ ?>
-				<li class="contact"><a href="http://paypal.com"><img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/pp.svg"></a></li>
+				<li class="contact"><a href="http://paypal.com"><img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/paypal.svg"></a></li>
 				<li class="contact"><a href="/42vmy3zq/incubation">Apply</a></li>
 				<li><a href="/42vmy3zq/community"><span class="hideOnMobile">Current </span>Startups</a></li>
 				<li><a href="/42vmy3zq/about">About</a></li>
