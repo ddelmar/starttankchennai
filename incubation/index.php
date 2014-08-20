@@ -4,12 +4,28 @@
 	<h1>Rules and Regulations</h1>
 	<a href="#" class="close" onclick="return false;">&nbsp;</a>
 	<p>
-		Here are the rules and regulations. Here are the rules and regulations. Here are the rules and regulations. Here are the rules and regulations. Here are the rules and regulations. Here are the rules and regulations. Here are the rules and regulations. Here are the rules and regulations. Here are the rules and regulations. Here are the rules and regulations. Here are the rules and regulations. Here are the rules and regulations. Here are the rules and regulations. Here are the rules and regulations. Here are the rules and regulations. Here are the rules and regulations. Here are the rules and regulations. Here are the rules and regulations. Here are the rules and regulations. Here are the rules and regulations. Here are the rules and regulations. Here are the rules and regulations. Here are the rules and regulations. Here are the rules and regulations. Here are the rules and regulations. 
+		The company has to:
+		<ul>
+		<li>Be started in India
+
+		</li><li>Be registered in India
+
+		</li><li>Adhere to indian govt rules and regulations
+
+		</li><li>Adhere to PayPal’s compliance policy
+
+		</li><li>Limit its team size to 10 members</li>
+		</ul>
+
+		<p>PayPal is not related to:</p>
+		<ul>
+		<li>Company’s revenues </li>
+	</ul>
 	</p>
 </div>
 <div id="blackbg"></div>
 
-<div class="faq">
+<div class="apply_left">
 	<h1>Incubation Challenge</h1>
 <p>
 Start Tank announces its first Incubation Challenge! We aim to identify and nurture the next generation world-class, innovative, technology-centric startups in India.
@@ -79,7 +95,7 @@ Contact us: <a href="mailto:StartTankChennai@PayPal.com" target="_blank">StartTa
 
 <p></p>
 <p>
-		<a class="btn" href="/42vmy3zq/apply">Apply now to join Start Tank.</a>
+		<a class="btn" href="/42vmy3zq/apply">Apply now</a>
 	
 </p>
 	
@@ -97,11 +113,12 @@ Contact us: <a href="mailto:StartTankChennai@PayPal.com" target="_blank">StartTa
 			</a>
 		</div>
 </article>
-	
-</div><!-- /faq -->
+</div><!-- /apply_left -->
 
+<div class="apply_right">
+</div><!-- /apply_right -->
 <div class="clr" style="margin:20px 0;"></div>
 
 
-<?php include('../includes/footer.php');  ?>
+<?php include('../includes/footer_analytics.php'); ?>
 

@@ -8,7 +8,7 @@
 <meta http-equiv="Content-Type" content="application/vnd.wap.xhtml+xml" /> 
 <meta name="HandheldFriendly" content="True" /> 
 <meta name="viewport" content="initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" />
-<meta name="description" content="Shared innovation space for startups in Boston" />
+<meta name="description" content="Shared innovation space for startups in Chennai" />
 
 <link rel="shortcut icon" href="http://where-spotlight.s3.amazonaws.com/start-tank/favicon.png" />
 <link rel="apple-touch-icon" href="https://www.paypalobjects.com/en_US/i/pui/apple-touch-icon.png" />
@@ -54,14 +54,14 @@ $(document).ready(function(){
 	
 	<div class="navParent">
 		<div class="navChild">
-			<a href="/"><img class="logo" src="http://where-spotlight.s3.amazonaws.com/start-tank/starttank_0093c2.svg"/></a>
+			<a href="http://chennai.starttank.com"><img class="logo" src="http://where-spotlight.s3.amazonaws.com/start-tank/starttank_0093c2.svg"/></a>
 			<ul>
 				<?php /*
 				<li><a href="calendar">Calendar</a></li>
 				<li><a href="/42vmy3zq/press">Press</a></li>
 				*/ ?>
 				<li class="contact"><a href="http://paypal.com"><img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/paypal.svg"></a></li>
-				<li class="contact"><a href="/42vmy3zq/incubation">Apply</a></li>
+				<li class="contact"><a href="/42vmy3zq/apply">Apply</a></li>
 				<li><a href="/42vmy3zq/community"><span class="hideOnMobile">Current </span>Startups</a></li>
 				<li><a href="/42vmy3zq/about">About</a></li>
 				

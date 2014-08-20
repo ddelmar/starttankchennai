@@ -1,6 +1,6 @@
 <?php include('../includes/head.php'); ?>
 
-<div class="faq">
+<div class="apply_left">
 	<h1>About Start Tank</h1>
 <p>
 PayPal India, in partnership with The Indus Entrepreneurs (TiE) Chennai Chapter, launched Start Tank, the startup incubator, at PayPal’s Chennai development center. 
@@ -25,11 +25,14 @@ You will hear from us soon when applications open. If you have questions, email 
 
 </p>
 	
-	
-</div><!-- /faq -->
+</div><!-- /about_left -->
+<div class="apply_right">
+</div><!-- /about_right -->
 
 <div class="clr" style="margin:20px 0;"></div>
 
 
-<?php include('../includes/footer.php');  ?>
+<?php /* include('../includes/footer.php');  */ ?>
+<?php include('../includes/footer_analytics.php'); ?>
+
 

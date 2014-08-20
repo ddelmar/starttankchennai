@@ -31,6 +31,13 @@ TABLET + DESKTOP
 		float: left;
 		background: white;
 	}
+	.about_page .apply_right {
+		background-image: url(https://where-spotlight.s3.amazonaws.com/start-tank-chennai/about.jpg); 
+	}
+	.incubation_page .apply_right,
+	.apply_page .apply_right {
+		background-image: url(https://where-spotlight.s3.amazonaws.com/start-tank-chennai/apply.jpg); 
+	}
 	
 	.community .startup_writeup,
 	.community .mentor_writeup {
@@ -42,7 +49,7 @@ TABLET + DESKTOP
 	}
 	
 	p, ul, ol {
-	font-size: 1em;
+	font-size: 1.4em;
 	}
 	.navChild ul li a img {
 		width: 80%;
@@ -55,6 +62,11 @@ TABLET + DESKTOP
 	}
 	.community ul.mentor_logos li a, .community ul.mentor_logos li a.unselected {
 	width: 32%;
+	}
+	
+	#rulesandregulations_content {
+		width: 50%;
+		margin: 10% 0 0 -25%;
 	}
 	
 	/* Startups */
@@ -135,6 +147,10 @@ MOBILE
 	.navChild ul li a img {
 		display:none;
 	}
+	#rulesandregulations_content {
+		width: 80%;
+		margin: 10% 0 0 -45%;
+	}
 	.featurette {
 		width: 70%;
 		margin: 50px 15% 0 15%;
@@ -192,11 +208,10 @@ a.btn {
 	display: none;
 	position: fixed;
 	z-index: 101;
-	width: 90%;
 	height: 500px;
 	left: 50%;
 	top: 0;
-	margin: 10% 0 0 -45%;
+	padding: 0 5%;
 	background: white;
 }
 
@@ -212,10 +227,19 @@ a.btn {
 	display: block;
 }
 
+#rulesandregulations_content h1 {
+	margin: 2em 0 1em 0;
+}
+
 #rulesandregulations_content p {
-	width: 90%;
-	margin: 0 auto;
+	margin: 2em auto 1em auto;
 	text-align: left;
+}
+
+#rulesandregulations_content li {
+	list-style-type: disc;
+	text-align: left;
+	margin: 0 0 0 2em;
 }
 
 #blackbg {
@@ -231,6 +255,26 @@ a.btn {
 
 .ecosystem div {float: left; max-width:150px; width:46%; margin: 0 2% 0;}
 .ecosystem div img {width:100%;}
+
+/* Community */
+
+
+.community_page .mentors, .community_page .mentor_writeup {
+	background: transparent;
+}
+
+.community .mentors li a, .community .mentors li a.unselected {
+opacity: 1;
+}
+
+.community .mentors li a:hover, .community .mentors li a.selected {
+border: 1px solid #999;
+}
+
+.community .mentors p, .community .mentors li, .community .mentors h1, .community .mentors h1 span {
+color: #777;
+}
+
 
 /* STARTUPS */
 
