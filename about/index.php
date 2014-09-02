@@ -22,9 +22,12 @@ The tenure of the program is 12 months.
 </p>
 <p>
 You will hear from us soon when applications open. If you have questions, email us at <a href="mailto:starttankchennai@paypal.com" target="_blank">starttankchennai@paypal.com.</a>
-
 </p>
-	
+
+<h1>Come Visit Us</h1>
+<p>
+We are at PayPal India Pvt. Ltd., 6th floor, Futura IT Park, Block A, 334, OMR Road, Sholinganallur, Chennai, Tamil Nadu 600 119
+</p>
 </div><!-- /about_left -->
 <div class="apply_right">
 </div><!-- /about_right -->

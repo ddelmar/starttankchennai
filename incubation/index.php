@@ -39,7 +39,7 @@ Your startup-to-giant entrepreneurial journey begins here…
 Are You Up for the Incubation Challenge and Be Part of Start Tank?
 </p>
 <p>
-		<a class="btn" href="/42vmy3zq/apply">Apply now</a>
+		<a class="btn" href="/apply">Apply now</a>
 	
 </p>
 
@@ -95,7 +95,7 @@ Contact us: <a href="mailto:StartTankChennai@PayPal.com" target="_blank">StartTa
 
 <p></p>
 <p>
-		<a class="btn" href="/42vmy3zq/apply">Apply now</a>
+		<a class="btn" href="/apply">Apply now</a>
 	
 </p>
 	

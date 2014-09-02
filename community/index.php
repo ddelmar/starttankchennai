@@ -33,7 +33,7 @@ STARTUPS
 									</h1>
 									<div class="clr"></div>						
 									<p>
-A platform for interconnecting part-time job seekers and the part-time job providers. <a href="/42vmy3zq/community/startups/doparttime/">Meet the team.</a>
+A platform for interconnecting part-time job seekers and the part-time job providers. <a href="/community/startups/doparttime/">Meet the team.</a>
 <br /><br />
 <a href="http://www.doparttime.com/" title="DoPartTime" target="_blank">DoPartTime.com</a>
 									</p>
@@ -46,7 +46,7 @@ A platform for interconnecting part-time job seekers and the part-time job provi
 									</h1>
 									<div class="clr"></div>						
 									<p>
-A consumer insights and interaction tool that enables business to understand and calibrate customer interactions and experiences. <a href="/42vmy3zq/community/startups/heyfeedback/">Meet the team.</a>
+A consumer insights and interaction tool that enables business to understand and calibrate customer interactions and experiences. <a href="/community/startups/heyfeedback/">Meet the team.</a>
 <br /><br />
 <a href="http://heyfeedback.com/" title="Hey Feedback" target="_blank">Hey Feedback</a>
 									</p>
@@ -59,7 +59,7 @@ A consumer insights and interaction tool that enables business to understand and
 									</h1>
 									<div class="clr"></div>						
 									<p>
-kobster is a technology-led office supplies company offering complete solutions to procure, manage, analyse and optimise office supplies for a corporate. Kobster.com aims to consumarize the corporate procurement process and revolutionize the way corporates shop for their office needs by leveraging the power of e-commerce. <a href="/42vmy3zq/community/startups/kobster/">Meet the team.</a>
+kobster is a technology-led office supplies company offering complete solutions to procure, manage, analyse and optimise office supplies for a corporate. Kobster.com aims to consumarize the corporate procurement process and revolutionize the way corporates shop for their office needs by leveraging the power of e-commerce. <a href="/community/startups/kobster/">Meet the team.</a>
 <br /><br />
 <a href="http://kobster.com" title="Kobster" target="_blank">Kobster</a>
 									</p>
@@ -72,7 +72,7 @@ kobster is a technology-led office supplies company offering complete solutions 
 						</h1>
 						<div class="clr"></div>						
 						<p>
-A sports fan engagement and management company whose signature mobile application enables a shared, interactive experience during live cricket matches. <a href="/42vmy3zq/community/startups/fantain/">Meet the team.</a>
+A sports fan engagement and management company whose signature mobile application enables a shared, interactive experience during live cricket matches. <a href="/community/startups/fantain/">Meet the team.</a>
 <br /><br />
 <a href="http://www.fantain.com/" title="Fantain" target="_blank">Fantain</a>
 						</p>

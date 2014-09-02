@@ -21,7 +21,7 @@
 <style>.startups img, .mentors img {opacity:1;}</style>
 <![endif]-->
 <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
-<script type="text/javascript" src="../j/ppmn.js"></script>
+<script type="text/javascript" src="/42vmy3zq/j/ppmn.js"></script>
 <script type="text/javascript" src="../j/nbw-parallax.js"></script>
 <script type="text/javascript" src="../j/jquery.inview.js"></script>
 
