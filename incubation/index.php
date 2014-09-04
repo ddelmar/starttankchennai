@@ -4,29 +4,23 @@
 	<h1>Rules and Regulations</h1>
 	<a href="#" class="close" onclick="return false;">&nbsp;</a>
 	<p>
-		The company has to:
-		<ul>
-		<li>Be started in India
-
-		</li><li>Be registered in India
-
-		</li><li>Adhere to indian govt rules and regulations
-
-		</li><li>Adhere to PayPal’s compliance policy
-
-		</li><li>Limit its team size to 10 members</li>
-		</ul>
-
-		<p>PayPal is not related to:</p>
-		<ul>
-		<li>Company’s revenues </li>
+		The founders of the company formally agree to ensure that the company:
+</p>
+<ul>
+		<li>Be registered in India
+		</li><li>Does not use the PayPal address for company registration
+		</li><li>Agrees to adhere to Indian government rules and regulations
+		</li><li>Agrees to restrict its team size within the Incubation Space to 15 members
+		</li><li>Agrees to indemnify PayPal in all incubatee company matters such as performance, conduct, partnership, revenue generation, legal compliances, etc.
+		</li><li>Agrees to ensure correspondence, provide information about the company status and conduct reviews in a timely manner
+		</li><li>Understands that PayPal does not provide financial assistance under incubation
+		</li><li>Ensures adherence to the code of conduct, general rules of infrastructure usage and other such governance policies of the Incubator</li>
 	</ul>
-	</p>
 </div>
 <div id="blackbg"></div>
 
 <div class="apply_left">
-	<h1>Incubation Challenge</h1>
+	<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/STIC_Logo.jpg" style="width:100%; padding: 0 0 20px 0;">
 <p>
 Start Tank announces its first Incubation Challenge! We aim to identify and nurture the next generation world-class, innovative, technology-centric startups in India.
 </p><p>
@@ -45,11 +39,18 @@ Are You Up for the Incubation Challenge and Be Part of Start Tank?
 
 <h2>Key dates</h2>
 		<ul>
-			<li>Applications open: 18 August</li>
-			<li>Applications close: 12 September</li>
-			<li>Semi-final in Chennai: 21 September</li>
-			<li>Semi-final in Bangalore: 28 September</li>
-			<li>Final (Chennai): 11 October</li>
+			<li><b>Prelims</b></li>
+			<li>Chennai  - 20th September 2014</li>
+
+			</li><li>Madurai – 27th September 2014
+
+			</li><li>Bangalore  - 11th October 2014
+
+			</li><li>Selam - 11th October 2014
+
+			</li><li>Tutuicorin 18th October 2014</li>
+			<li><b>Finals</b></li>
+			<li>Chennai - 11th November  2014</li>
 		</ul>
 
 
@@ -102,14 +103,16 @@ Contact us: <a href="mailto:StartTankChennai@PayPal.com" target="_blank">StartTa
 	
 <article class="ecosystem">	
 	
-		<div>
-			<p>An initiative of</p><br />
-			<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/ppcom.svg" />
-		</div>
-		<div>
+		<div class="tie">
 			<p>Ecosystem Partners</p><br />
 			<a href="https://www.tie.org/" title="The Indus Entrepreneurs" target="_blank">
 				<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/tie.jpg" />
+			</a>
+		</div>
+		<div class="ebay">
+			<p>Powered by</p><br />
+			<a href="https://www.ebay.com/" title="eBay Inc" target="_blank">
+				<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/ebay.png" />
 			</a>
 		</div>
 </article>

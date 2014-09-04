@@ -1,4 +1,3 @@
-<?php include('includes/password_protect.php'); ?>
 <?php include('includes/head.php'); ?>
 
 <div class="about">
@@ -67,9 +66,30 @@ Start Tank Chennai aims to be a world-class incubation center that nurtures worl
 </div><!-- /about5 -->
 </article>
 
-	</div>
-	</a>
+
+<article class="ecosystem_wrapper">
+<div id="about6_wrapper">
+	<div id="about6_contain" class="ecosystem">
+		
+				<div class="tie">
+					<p>Ecosystem Partners</p><br />
+					<a href="https://www.tie.org/" title="The Indus Entrepreneurs" target="_blank">
+						<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/tie.jpg" />
+					</a>
+				</div>
+				<div class="ebay">
+					<p>Powered by</p><br />
+					<a href="https://www.ebay.com/" title="eBay Inc" target="_blank">
+						<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/ebay.png" />
+					</a>
+				</div>
+				
+	
+	</div><!-- /about6_contain -->
+</div><!-- /about6_wrapper -->
 </article>
+
+
 </div><!-- /about -->
 
 

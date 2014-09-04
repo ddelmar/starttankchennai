@@ -23,13 +23,15 @@ TABLET + DESKTOP
 		background-repeat: no-repeat;
 		background-position: right top;
 	}
+	
 	.about_dots {
-	height: 250px;
+		display:none;
 	}
 	
 	#about6_wrapper {
 		float: left;
 		background: white;
+		padding: 2em 0;
 	}
 	.about_page .apply_right {
 		background-image: url(https://where-spotlight.s3.amazonaws.com/start-tank-chennai/about.jpg); 
@@ -37,6 +39,10 @@ TABLET + DESKTOP
 	.incubation_page .apply_right,
 	.apply_page .apply_right {
 		background-image: url(https://where-spotlight.s3.amazonaws.com/start-tank-chennai/apply.jpg); 
+	}
+	
+	.navChild ul li.incubation a {
+	width: 158px;
 	}
 	
 	.community .startup_writeup,
@@ -92,6 +98,9 @@ TABLET + DESKTOP
 	.featuredstartup .intro p {
 		color: white;
 	}
+	article.ecosystem_wrapper {
+		background: white;
+	}
 	#doparttime {
 		background-image: url(https://where-spotlight.s3.amazonaws.com/start-tank-chennai/startups/hero_doparttime.jpg);
 	}
@@ -118,6 +127,9 @@ ONLY DESKTOP
 		width: 50%;
 		padding: 100px 25% 0 25%;
 	}
+	#about1 {
+		height: 1000px;
+	}
 }
 	
 /*
@@ -127,6 +139,7 @@ ONLY TABLET
 */
 
 @media (max-width: 1025px) and (min-width: 768px) {
+	#about1 {height: 600px;}
 	#about2, #about4, .aboutSubContainerL {
 		height: 500px;
 	}
@@ -163,6 +176,9 @@ MOBILE
 	.featuredstartup .intro a {
 		background: #0093c2;
 		color: white;
+	}
+	article.ecosystem_wrapper {
+		background: transparent;
 	}
 }
 
@@ -206,9 +222,9 @@ a.btn {
 
 #rulesandregulations_content {
 	display: none;
-	position: fixed;
+	position: absolute;
 	z-index: 101;
-	height: 500px;
+	height: 800px;
 	left: 50%;
 	top: 0;
 	padding: 0 5%;
@@ -253,8 +269,30 @@ a.btn {
 	opacity: .8;
 }
 
-.ecosystem div {float: left; max-width:150px; width:46%; margin: 0 2% 0;}
+article.ecosystem_wrapper {
+	float: left;
+	width: 100%;
+	padding: 2em 0;
+}
+
+.ecosystem div {float: left; width:46%; margin: 0 2% 0;}
 .ecosystem div img {width:100%;}
+.ecosystem div.ebay img {max-width:180px; }
+.ecosystem div.tie img {max-width:110px; }
+
+
+#about6_wrapper {
+	max-width: 400px;
+	width: 100%;
+	float: none;
+	background: transparent;
+}
+#about6_contain {
+	width: 100%;
+}
+#about6_contain div {
+text-align: center;
+}
 
 /* Community */
 

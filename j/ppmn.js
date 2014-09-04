@@ -35,7 +35,7 @@ $("#contactform input").focus(function(){
 
 
 //----------- if Apply pg ----------//
-if(window.location.pathname == '/42vmy3zq/apply/'){
+if(window.location.pathname == '/apply/'){
 	$('#privacy').change(function(){
 	    var c = this.checked ? 'block' : 'none';
 	    $('#ss-submit').css("display",c);

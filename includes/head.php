@@ -13,7 +13,7 @@
 <link rel="shortcut icon" href="http://where-spotlight.s3.amazonaws.com/start-tank/favicon.png" />
 <link rel="apple-touch-icon" href="https://www.paypalobjects.com/en_US/i/pui/apple-touch-icon.png" />
 <link href="http://starttank.com/c/master.css" rel="stylesheet" type="text/css" />
-<link href="/42vmy3zq/c/chennai.css" rel="stylesheet" type="text/css" />
+<link href="/c/chennai.css" rel="stylesheet" type="text/css" />
 
 <!--[if IE]>
 <link href="../c/desktop.css" rel="stylesheet" type="text/css" />
@@ -21,7 +21,7 @@
 <style>.startups img, .mentors img {opacity:1;}</style>
 <![endif]-->
 <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
-<script type="text/javascript" src="/42vmy3zq/j/ppmn.js"></script>
+<script type="text/javascript" src="../j/ppmn.js"></script>
 <script type="text/javascript" src="../j/nbw-parallax.js"></script>
 <script type="text/javascript" src="../j/jquery.inview.js"></script>
 
@@ -38,6 +38,9 @@
 $(document).ready(function(){
 	$("#rulesandregulations").click(function(){
 		$("#rulesandregulations_content, #blackbg").show();
+		$("html, body").animate({
+		            scrollTop: 0
+		        }, 200);
 	});
 	$("a.close").click(function(){
 		$("#rulesandregulations_content, #blackbg").hide();
@@ -56,14 +59,12 @@ $(document).ready(function(){
 		<div class="navChild">
 			<a href="http://chennai.starttank.com"><img class="logo" src="http://where-spotlight.s3.amazonaws.com/start-tank/starttank_0093c2.svg"/></a>
 			<ul>
-				<?php /*
-				<li><a href="calendar">Calendar</a></li>
-				<li><a href="/42vmy3zq/press">Press</a></li>
-				*/ ?>
+
 				<li class="contact"><a href="http://paypal.com"><img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/paypal.svg"></a></li>
-				<li class="contact"><a href="/42vmy3zq/apply">Apply</a></li>
-				<li><a href="/42vmy3zq/community"><span class="hideOnMobile">Current </span>Startups</a></li>
-				<li><a href="/42vmy3zq/about">About</a></li>
+				<li class="contact"><a href="/apply">Apply</a></li>
+				<li class="incubation"><a href="/incubation">Incubation<span class="hideOnMobile"> Challenge</span></a></li>
+				<li><a href="/community"><span class="hideOnMobile">Current </span>Startups</a></li>
+				<li><a href="/about">About</a></li>
 				
 			</ul>
 		</div><!-- /navChild -->
