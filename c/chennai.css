@@ -313,6 +313,11 @@ border: 1px solid #999;
 color: #777;
 }
 
+.mentor_writeup a {
+border-bottom: 1px dashed #0093c2;
+color: #0093c2;
+}
+
 
 /* STARTUPS */
 
