@@ -48,7 +48,7 @@
              <img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/startups/team_fantai/Arvind%20Ramachandran.jpg" alt="Aravind Ramachandran"  class="img-responsive img-circle img-shadow ">
           </div>
             <div class="col-md-7">
-                <h2 class="featurette-heading"> <a href="http://www.arundavid.com/" target="_blank">Aravind Ramachandran</a> <span class="text-muted"> Chief Product Officer <a href="http://www.fantain.com/" >Fantain</a></span></h2>
+                <h2 class="featurette-heading">Aravind Ramachandran <span class="text-muted"> Chief Product Officer <a href="http://www.fantain.com/" >Fantain</a></span></h2>
 
 				              <p class="lead">Aravind has 20 years of experience in software products and IT services industries. He leads an enthusiastic bunch of people and builds the Fantain platform. He is also the Product Manager for Cricket @ Fantain. Aravind is a visionary who imagines how fans can engage more pervasively with the sport they love and strives to convert that vision into great products.</p>
 				

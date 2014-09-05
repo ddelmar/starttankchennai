@@ -48,7 +48,7 @@ HeyFeedback is an online survey creation tool that allows you to create a survey
              <img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/startups/team_heyfeedback/kamlesh.jpg" alt="Kamlesh"  class="img-responsive img-circle img-shadow ">
           </div>
             <div class="col-md-7">
-                <h2 class="featurette-heading"> <a href="http://www.arundavid.com/" target="_blank">Arun David</a> <span class="text-muted"> COO <a href="http://www.heyfeedback.com/" >Hey Feedback</a></span></h2>
+                <h2 class="featurette-heading">Kamalesh Jayaraman <span class="text-muted"> COO <a href="http://www.heyfeedback.com/" >Hey Feedback</a></span></h2>
 
 				              <p class="lead">Kamalesh is a serial entrepreneur who has had a successful first venture. After holding consulting roles in various organizations, he co-founded another venture. He has a background in engineering, and is now the COO of Hey Feedback.</p>
 				

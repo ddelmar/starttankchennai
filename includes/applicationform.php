@@ -56,8 +56,7 @@ FORM
 <div dir="ltr" class="ss-item ss-item-required ss-select"><div class="ss-form-entry">
 <label class="ss-q-item-label" for="entry_688803774"><div class="ss-q-title">Are you willing to be incubated at Chennai?
 <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
-<span class="ss-required-asterisk">*</span></div>
-<div class="ss-q-help ss-secondary-text" dir="ltr">(Word limit 50) </div></label>
+<span class="ss-required-asterisk">*</span></div></label>
 <select name="entry.688803774" id="entry_688803774" aria-label="Are you willing to be incubated at Chennai? (Word limit 50)  " aria-required="true" required=""><option value=""></option>
 <option value="Yes">Yes</option> <option value="No">No</option></select>
 <div class="required-message">This is a required question</div></div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
@@ -337,7 +336,7 @@ FORM
 <span class="ss-required-asterisk">*</span></div>
 <div class="ss-q-help ss-secondary-text" dir="ltr">Select first preference for pitching</div></label>
 <select name="entry.1206399447" id="entry_1206399447" aria-label="First preferred Selection Venue: Select first preference for pitching " aria-required="true" required=""><option value=""></option>
-<option value="Chennai (20th September 2014)">Chennai (20th September 2014)</option> <option value="Madurai&nbsp;(27th September 2014)">Madurai (27th September 2014)</option> <option value="Bangalore&nbsp;(11th October 2014)">Bangalore (11th October 2014)</option> <option value="Salem (11th October 2014)">Salem (11th October 2014)</option> <option value="Tuticorin&nbsp;(18th October 2014)">Tuticorin (18th October 2014)</option></select>
+<option value="Chennai (20th September 2014)">Chennai (20th September 2014)</option> <option value="Madurai&nbsp;(27th September 2014)">Madurai (27th September 2014)</option> <option value="Salem (11th October 2014)">Salem (11th October 2014)</option> <option value="Bangalore&nbsp;(18th October 2014)">Bangalore (18th October 2014)</option> <option value="Tuticorin&nbsp;(18th October 2014)">Tuticorin (18th October 2014)</option></select>
 <div class="required-message">This is a required question</div></div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
 <div dir="ltr" class="ss-item ss-item-required ss-select"><div class="ss-form-entry">
 <label class="ss-q-item-label" for="entry_772463649"><div class="ss-q-title">Second preferred Selection Venue:
@@ -345,7 +344,7 @@ FORM
 <span class="ss-required-asterisk">*</span></div>
 <div class="ss-q-help ss-secondary-text" dir="ltr">Select second preference for pitching</div></label>
 <select name="entry.772463649" id="entry_772463649" aria-label="Second preferred Selection Venue: Select second preference for pitching " aria-required="true" required=""><option value=""></option>
-<option value="Chennai (20th September 2014)">Chennai (20th September 2014)</option> <option value="Madurai&nbsp;(27th September 2014)">Madurai (27th September 2014)</option> <option value="Bangalore&nbsp;(27th September 2014)">Bangalore (27th September 2014)</option> <option value="Selam (11th October 2014)">Selam (11th October 2014)</option> <option value="Tutuicorin&nbsp;(18th October 2014)">Tutuicorin (18th October 2014)</option></select>
+<option value="Chennai (20th September 2014)">Chennai (20th September 2014)</option> <option value="Madurai&nbsp;(27th September 2014)">Madurai (27th September 2014)</option> <option value="Salem (11th October 2014)">Salem (11th October 2014)</option> <option value="Bangalore&nbsp;(18th October 2014)">Bangalore (18th October 2014)</option> <option value="Tuticorin&nbsp;(18th October 2014)">Tuticorin (18th October 2014)</option></select>
 <div class="required-message">This is a required question</div></div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
 <div dir="ltr" class="ss-item ss-item-required ss-paragraph-text"><div class="ss-form-entry">
 <label class="ss-q-item-label" for="entry_767789350"><div class="ss-q-title">Provide professional references: 
