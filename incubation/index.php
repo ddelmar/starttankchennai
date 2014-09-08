@@ -40,15 +40,13 @@ Are You Up for the Incubation Challenge and Be Part of Start Tank?
 <h2>Key dates</h2>
 		<ul>
 			<li><b>Prelims</b></li>
-			<li>Chennai  - 20th September 2014</li>
-
-			</li><li>Madurai – 27th September 2014
-
+			<li>Chennai - 20th September 2014</li>
+			</li><li>Madurai - 27th September 2014
 			</li><li>Salem - 11th October 2014
-			</li><li>Bangalore  - 18th October 2014
+			</li><li>Bangalore - 18th October 2014
 			</li><li>Tuticorin - 18th October 2014</li>
-			<li><b>Finals</b></li>
-			<li>Chennai - 11th November  2014</li>
+			<li><p><b>Finals</b></li>
+			<li>Chennai - 31st October 2014 (as part of TiECon Power Pitch Fest sponsored by PayPal)</li>
 		</ul>
 
 
