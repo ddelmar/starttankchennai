@@ -48,7 +48,7 @@ Are You Up for the Incubation Challenge and Be Part of Start Tank?
 			</li><li>Bangalore  - 18th October 2014
 			</li><li>Tuticorin - 18th October 2014</li>
 			<li><b>Finals</b></li>
-			<li>Chennai - 11th November  2014</li>
+			<li>Chennai - 31st October 2014</li>
 		</ul>
 
 
