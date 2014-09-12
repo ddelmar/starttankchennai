@@ -241,9 +241,8 @@ A sports fan engagement and management company whose signature mobile applicatio
 
 			<p>Dorai Thodla is the <span class="role">co-founder of iMorph Inc.</span> located in San Jose, CA. In his 40+ years of professional experience, he co-founded Digital Software Systems (Chennai) and Coromandel Industries Inc. in1986 (Forest Hills, NY), and founded Information Technology Systems (Bangalore).</p>
 
-			<p>As a technology entrepreneur, Dorai holds various portfolios such as Innovation Catalyst at Future Focus Infotech, Innovation Mentor for Hindustan Group of institutions, Startup Mentor for tech startups in Chennai, Member of TiE Chennai Mentoring Group, and CTO at iMorph.</p><p>
+			<p>As a technology entrepreneur, Dorai holds various portfolios such as Innovation Catalyst at Future Focus Infotech, Innovation Mentor for Hindustan Group of institutions, Startup Mentor for tech startups in Chennai, Member of TiE Chennai Mentoring Group, and CTO at iMorph.</p>
 
-			With the mission of generating employment opportunities for young Indians, he co-founded Future Focus Infotech in 1997. He was the CEO and MD of Focus between 2002 and 2009, and continues to be its Joint Managing Director. He leads the organization’s Indian IT Services business as well as the off-shore software development center. He is a member of the Governing Council of TiE, Chennai, and is also the Chair of Mentoring for the term 2013–15. </p>
 			<p>
 			Dorai studied Electronics and Communications in 1971 from College of Engineering, Guindy (now known as Anna University), Chennai.</p>
 			<p>
